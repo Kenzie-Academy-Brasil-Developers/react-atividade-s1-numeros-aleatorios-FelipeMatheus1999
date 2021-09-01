@@ -1,0 +1,5 @@
+.divButton {
+    width: 230px;
+    display: flex;
+    justify-content: space-around;
+}
